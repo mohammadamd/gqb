@@ -23,4 +23,4 @@ It's a minimal query builder for golang to unified your queries and make them mo
 - [ ] Support Update
 - [ ] Support Delete
 - [ ] Support Scoped Where
-- [ ] ... (Fill this by your self)
+- [ ] ... (Fill this by yourself)
