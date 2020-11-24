@@ -9,6 +9,8 @@ It's a minimal query builder for golang to unified your queries and make them mo
 		Where("title", "like", "annad").
 		OrWhere("id", "=", "222").
 		OrderBy("id", "desc").
+		Offset(10).
+		Limit(12).
 		Generate()
 ```
 ### Output: 
